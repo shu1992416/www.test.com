@@ -1,4 +1,4 @@
 <?php
-	phpinfo();
-	echo 'hello World!';
+	echo 'I have a new car!';
+	
 ?>
